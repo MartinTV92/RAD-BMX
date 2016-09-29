@@ -1,2 +1,4 @@
 # RAD-BMX
-Repository for Project documentation, builds and source files
+Repository for project documentation, builds and source files
+
+Naming Convention: FILENAME_MMDDYY
